@@ -1,3 +1,5 @@
+MIPS Snake Game for Bitmap
+
 # Snake game in MIPS
 # Unit Width: 8	
 # Unit Height: 8
